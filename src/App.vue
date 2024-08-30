@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      <!-- <LoginOrRegister /> -->
+      <LoginOrRegister />
       <ScreenUser/>
     </v-main>
   </v-app>
